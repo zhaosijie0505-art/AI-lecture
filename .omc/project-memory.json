@@ -1,0 +1,200 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1778579950025,
+  "projectRoot": "/Users/zsj/Projects/AI学习课程",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": null
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "第10章：SKILL": {
+      "path": "第10章：SKILL",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1778579950016,
+      "keyFiles": []
+    },
+    "第11章：CLI": {
+      "path": "第11章：CLI",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1778579950016,
+      "keyFiles": []
+    },
+    "第12章：项目实战1——AI数学助教": {
+      "path": "第12章：项目实战1——AI数学助教",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1778579950016,
+      "keyFiles": []
+    },
+    "第13章：项目实战2——公司办公助手": {
+      "path": "第13章：项目实战2——公司办公助手",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1778579950016,
+      "keyFiles": []
+    },
+    "第14章：开源Agent项目解析": {
+      "path": "第14章：开源Agent项目解析",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1778579950017,
+      "keyFiles": []
+    },
+    "第1章：AI思维": {
+      "path": "第1章：AI思维",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1778579950017,
+      "keyFiles": []
+    },
+    "第2章：Prompt工程": {
+      "path": "第2章：Prompt工程",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1778579950017,
+      "keyFiles": []
+    },
+    "第3章：上下文工程": {
+      "path": "第3章：上下文工程",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1778579950017,
+      "keyFiles": []
+    },
+    "第4章：Harness工程": {
+      "path": "第4章：Harness工程",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1778579950017,
+      "keyFiles": []
+    },
+    "第5章：Agent核心概念": {
+      "path": "第5章：Agent核心概念",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1778579950017,
+      "keyFiles": []
+    },
+    "第6章：RAG基础全流程": {
+      "path": "第6章：RAG基础全流程",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1778579950017,
+      "keyFiles": []
+    },
+    "第7章：Agent开发框架": {
+      "path": "第7章：Agent开发框架",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1778579950017,
+      "keyFiles": []
+    },
+    "第8章：RAG进阶": {
+      "path": "第8章：RAG进阶",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1778579950017,
+      "keyFiles": []
+    },
+    "第9章：MCP": {
+      "path": "第9章：MCP",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1778579950017,
+      "keyFiles": []
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "01. 第一章 AI思维/01. 第一节 认知转型.md",
+      "accessCount": 11,
+      "lastAccessed": 1778604409228,
+      "type": "file"
+    },
+    {
+      "path": "01. 第一章 AI思维/00. 导言.md",
+      "accessCount": 6,
+      "lastAccessed": 1778603231094,
+      "type": "file"
+    },
+    {
+      "path": "CLAUDE.md",
+      "accessCount": 3,
+      "lastAccessed": 1778604911859,
+      "type": "file"
+    },
+    {
+      "path": "README.md",
+      "accessCount": 3,
+      "lastAccessed": 1778605126921,
+      "type": "file"
+    },
+    {
+      "path": "01. 第一章 AI思维/02. 第二节 概率思维.md",
+      "accessCount": 2,
+      "lastAccessed": 1778601930729,
+      "type": "file"
+    },
+    {
+      "path": "01. 第一章 AI思维/03. 第三节 工程师角色转变.md",
+      "accessCount": 2,
+      "lastAccessed": 1778601958007,
+      "type": "file"
+    },
+    {
+      "path": "01. 第一章 AI思维/04. 第四节 人机协作模型.md",
+      "accessCount": 2,
+      "lastAccessed": 1778601989761,
+      "type": "file"
+    },
+    {
+      "path": "01. 第一章 AI思维/第一节 认知转型.md",
+      "accessCount": 1,
+      "lastAccessed": 1778601581325,
+      "type": "file"
+    },
+    {
+      "path": "01. 第一章 AI思维/第二节 概率思维.md",
+      "accessCount": 1,
+      "lastAccessed": 1778601581444,
+      "type": "file"
+    },
+    {
+      "path": "01. 第一章 AI思维/第三节 工程师角色转变.md",
+      "accessCount": 1,
+      "lastAccessed": 1778601581558,
+      "type": "file"
+    },
+    {
+      "path": "01. 第一章 AI思维/第四节 人机协作模型.md",
+      "accessCount": 1,
+      "lastAccessed": 1778601581673,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}

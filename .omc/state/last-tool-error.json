@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"git -C \\\"/Users/zsj/Projects/AI学习课程\\\" push --set-upstream origin main\",\"description\":\"Push and set upstream for main branch\"}",
+  "error": "Exit code 128\nfatal: could not read Username for 'https://github.com': Device not configured",
+  "timestamp": "2026-05-12T16:55:55.152Z",
+  "retry_count": 2
+}
